@@ -1,4 +1,4 @@
-# Phase 2: Threshold-Gated Edge-Aware Contrastive Regularization for Two-Branch Image Dehazing
+Threshold-Gated Edge-Aware Contrastive Regularization for Two-Branch Image Dehazing
 
 ## 📖 Overview
 This repository contains the Phase 2 enhancements for the "Interaction-Guided Two-Branch Image Dehazing Network." The base architecture successfully balances global illumination mapping (via a Swin-Transformer branch) and local texture extraction (via a CNN branch) using interaction guidance. 
